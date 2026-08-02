@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 60" width="400" height="60">
+  <rect width="400" height="60" rx="8" fill="#ffffff" stroke="#e6dcce" stroke-width="1"/>
+  
+  <!-- PIX -->
+  <g transform="translate(15, 12)">
+    <rect width="55" height="36" rx="4" fill="#32bcad"/>
+    <text x="27.5" y="23" font-family="sans-serif" font-size="11" font-weight="900" fill="#ffffff" text-anchor="middle">pix</text>
+  </g>
+
+  <!-- VISA -->
+  <g transform="translate(80, 12)">
+    <rect width="55" height="36" rx="4" fill="#1a1f71"/>
+    <text x="27.5" y="24" font-family="sans-serif" font-size="13" font-style="italic" font-weight="bold" fill="#ffffff" text-anchor="middle">VISA</text>
+  </g>
+
+  <!-- MASTERCARD -->
+  <g transform="translate(145, 12)">
+    <rect width="55" height="36" rx="4" fill="#222222"/>
+    <circle cx="21" cy="18" r="10" fill="#eb001b"/>
+    <circle cx="34" cy="18" r="10" fill="#f79e1b" fill-opacity="0.8"/>
+  </g>
+
+  <!-- ELO -->
+  <g transform="translate(210, 12)">
+    <rect width="55" height="36" rx="4" fill="#000000"/>
+    <text x="27.5" y="23" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffcb05" text-anchor="middle">elo</text>
+  </g>
+
+  <!-- HIPERCARD -->
+  <g transform="translate(275, 12)">
+    <rect width="55" height="36" rx="4" fill="#b3141a"/>
+    <text x="27.5" y="22" font-family="sans-serif" font-size="9" font-weight="bold" fill="#ffffff" text-anchor="middle">Hipercard</text>
+  </g>
+
+  <!-- BOLETO -->
+  <g transform="translate(340, 12)">
+    <rect width="45" height="36" rx="4" fill="#f5efe6" stroke="#e6dcce"/>
+    <path d="M350 20 L350 32 M354 20 L354 32 M357 20 L357 32 M362 20 L362 32 M368 20 L368 32 M373 20 L373 32" stroke="#1c2826" stroke-width="2"/>
+    <text x="362.5" y="42" font-family="sans-serif" font-size="7" font-weight="bold" fill="#1c2826" text-anchor="middle">BOLETO</text>
+  </g>
+</svg>

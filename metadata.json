@@ -1,0 +1,6 @@
+{
+  "name": "100 Receitas Naturais para a Melhor Idade",
+  "description": "Landing page de vendas persuasiva e premium para o eBook 100 Receitas Naturais para a Melhor Idade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
